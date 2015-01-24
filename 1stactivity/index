@@ -1,0 +1,66 @@
+<html>
+
+    <head>
+         <title> !!!DLSU COMMAT4!!! </title>
+    </head>
+
+    <body>
+         <h2 align ="center"> <a id="home"> WELCOME TO THE INTERNET!</a> </h3> 
+         <h4 align="center"> I'll be your guide Huehue </h4>
+
+         <h5> Table of Contents </h5>
+         <ol>
+         <li> <a href="#one"> About Me </a> </li>
+         <li> <a href="#two"> My Video for the Week </a> </li>
+         <li> <a href="#three"> This week's audio </a> </li>
+         <li> <a href="#four"> My Interests </a> </li>
+         <li> <a href="#acads.html"> Academic Life </a> </li>
+         <li>Contact Me</li>
+         </ol>
+
+
+
+
+         <h4 align="center"> <a id="one"> About your Guide, Me, </a> </h4>
+         <center><img src="ican.jpg" height="300" width="300" alt="ME"></center>
+
+         <p> As told by Jim Day... </p>
+         <p> I first heard this back when I was 10 or 15 years old (about 1960 to 1965) from my father. He was a police officer in Columbus, Ohio and reported it as if it actually happened on the job. I have seen it in several forms, but usually it's one of those "If you think you are having a bad day" deals. The story always entails a man and a sliding glass window that he fails to notice is closed and crashes into. As I originally heard it, he has the sliding glass door open while mowing the lawn so he can go into the house, get a drink of water and cool off. In this version, his wife closes the door when he isn't looking. In a more recent version, the guy rides a motorcycle into the door. He walks/rides through the plate glass and sustains non-life-threatening (but significant) cuts that require stitches.
+
+         While he is en route to the emergency room, his wife, in a panic, cleans up or throws away gasoline associated with whatever activity was incidental to the accident. In the one where he was cutting the lawn, he had placed the gasoline for the mower in a glass jar. In the newer version, when he crashes the motorcycle he spills some of its gas on the patio. The wife cleans it up with paper towels. The gasoline (or gasoline soaked towels) end up in the household toilet.
+
+         Later that day, when the now heavily-sutured hubby returns home, he decides to use the bathroom. After he sits down, he drops his lit cigarette in the toilet. It explodes, causing 2nd and 3rd degree burns on the man's rear and genitals. Once again, the paramedics come out to take him to the hospital.
+
+         The most recent version of this story includes a final insult to the man where, as the wife is relating the causes of the accident to the next set of paramedics who show up, they laugh so hard they drop the man from the gurney onto the ground, causing a broken bone. (In the earlier version, the doctors or paramedics warn the man that his wife may be trying to kill him.) </P>
+
+         <h4 align="center"> My Video of the week! </h4>
+         <video controls> <source src="firstmade.mp4" type="video/mp4"> Your browser does not support the video tag. </video>
+
+         <h4 align="center"> This week's audio! </h4>
+         <audio controls> <source src="battle.mp3" type="audio/mpeg"> Your browser does not support this audio tag. </audio>
+
+         <h4 align="center"> My Interests </h5>
+         <ul>
+            <li>Pancakes and Milk</li>
+            <li>Cycling and BMX</li>
+            <li>Anime and Manga</li>
+            <li>Games</li>
+            <li>Lying around</li>
+          </ul>
+
+         <h5 align="center"> <a href="#home"> Back to top </a> </h5>
+
+
+
+
+
+    </body>
+
+
+
+
+
+
+
+
+</html>
